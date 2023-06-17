@@ -1,0 +1,27 @@
+11 Jun 2023
+Squat 20 10x 3
+Squat 40 6x 6
+Squat 50 8x 7
+Squat 55 8x 8
+Squat 55 5x 9
+Bench 20 12x 3
+Bench 40 8x 6
+Bench 50 6x 8
+Bench 60 4x 10
+Bench 55 5x 10
+Bench 50 7x 10
+Dead 60 2x 8
+Dead 60 2x 8
+Dead 60 2x 8
+
+16 Jun 2023
+Dead 30 6x 6
+Dead 30 6x 6
+Dead 30 6x 6
+Curl 12.5 8x 7
+Curl 15 7x 9
+Bench 40 8x 5
+Bench 50 8x 8
+Bench 60 5x 9
+Bench 60 5x 9
+Bench 60 4x 10
